@@ -1,0 +1,12 @@
+{
+  "name": "cypress-login-cadastro",
+  "version": "1.0.0",
+  "description": "Teste de login e cadastro com Cypress",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^13.0.0"
+  }
+}
